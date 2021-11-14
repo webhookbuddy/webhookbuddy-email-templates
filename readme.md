@@ -1,6 +1,11 @@
-# Free Responsive HTML Email Template
+# Webhook Buddy Email Templates
 
-Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.
+Forked from http://leemunroe.github.io/responsive-html-email-template/email.html.
+
+Original templates:
+
+* email.html
+* email-inlined.html
 
 [See live preview](http://leemunroe.github.io/responsive-html-email-template/email.html).
 
